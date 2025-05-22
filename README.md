@@ -7,3 +7,5 @@ an assignment from System Programming in HTW Berlin
 make
 make run
 ```
+## Screenshots
+![Screenshot](/images/image1.png)
